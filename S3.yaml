@@ -31,6 +31,8 @@ Properties:
     PublicAccessBlockConfiguration
   ReplicationConfiguration: 
     ReplicationConfiguration
+  PrivateAccessBlockConfiguration:
+   privateAccessBlockConfiguration 
   Tags: 
     - Tag
   VersioningConfiguration: 
