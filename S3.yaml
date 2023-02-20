@@ -27,6 +27,12 @@ Properties:
   ObjectLockEnabled: Boolean
   OwnershipControls: 
     OwnershipControls
+  PublicAccessBlockConfiguration: 
+    PublicAccessBlockConfiguration
+  ReplicationConfiguration: 
+    ReplicationConfiguration
+  PrivateAccessBlockConfiguration:
+   privateAccessBlockConfiguration 
   Tags: 
     - Tag
   VersioningConfiguration: 
